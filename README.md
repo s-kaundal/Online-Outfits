@@ -1,8 +1,8 @@
 # My Personal Project
 
-## On-the-phone Outfits
+## Online Outfits
 
-**On-the-phone Outfits** is an app to keep your wardrobe portable and easy-to-maintain, all at the tip of your fingers. 
+**Online Outfits** is an app to keep your wardrobe portable and easy-to-maintain, all at the tip of your fingers. 
 From *fashion fanatics* to *simple dressers*, anyone who wants to use this app can:
 - keep track of their clothes
 - budget for their closet
