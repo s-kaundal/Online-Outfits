@@ -1,0 +1,63 @@
+[
+    [
+        {
+            "Type": "TOP",
+            "Description": "Black top",
+            "Price": 10.5,
+            "Next ID": 4,
+            "Store": "Zara",
+            "ID": 0
+        },
+        {
+            "Type": "BOTTOM",
+            "Description": "Khakis",
+            "Price": 10.5,
+            "Next ID": 4,
+            "Store": "Zara",
+            "ID": 1
+        },
+        {
+            "Type": "SHOES",
+            "Description": "Boots",
+            "Price": 40,
+            "Next ID": 4,
+            "Store": "DocMartin's",
+            "ID": 2
+        },
+        {
+            "Type": "ACCESSORY",
+            "Description": "Ring",
+            "Price": 10,
+            "Next ID": 4,
+            "Store": "Accessorize",
+            "ID": 3
+        }
+    ],
+    [{
+        "Accessories": [{
+            "Type": "ACCESSORY",
+            "Description": "Ring",
+            "Price": 10,
+            "Next ID": 4,
+            "Store": "Accessorize",
+            "ID": 3
+        }],
+        "Bottoms": [{
+            "Type": "BOTTOM",
+            "Description": "Khakis",
+            "Price": 10.5,
+            "Next ID": 4,
+            "Store": "Zara",
+            "ID": 1
+        }],
+        "Shoe ID": 2,
+        "Tops": [{
+            "Type": "TOP",
+            "Description": "Black top",
+            "Price": 10.5,
+            "Next ID": 4,
+            "Store": "Zara",
+            "ID": 0
+        }]
+    }]
+]

@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "ID": 0,
+      "Next ID": 4,
+      "Price": 10.50,
+      "Store": "Zara",
+      "Type": "TOP",
+      "Description": "A striped tee"
+    },
+    {
+      "ID": 1,
+      "Next ID": 4,
+      "Price": 50.0,
+      "Store": "Aritzia",
+      "Type": "BOTTOM",
+      "Description": "Blue jeans"
+    },
+    {
+      "ID": 2,
+      "Next ID": 4,
+      "Price": 29.99,
+      "Store": "Sketchers",
+      "Type": "SHOES",
+      "Description": "Black sneakers"
+    },
+    {
+      "ID": 3,
+      "Next ID": 4,
+      "Price": 0.0,
+      "Store": "Gift",
+      "Type": "ACCESSORY",
+      "Description": "Pearl necklace"
+    }
+  ],
+  [
+    {
+      "Tops": [
+        {
+          "ID": 0,
+          "Next ID": 4,
+          "Price": 10.50,
+          "Store": "Zara",
+          "Type": "TOP",
+          "Description": "A striped tee"
+        }
+      ],
+      "Bottoms": [
+        {
+          "ID": 1,
+          "Next ID": 4,
+          "Price": 50.0,
+          "Store": "Aritzia",
+          "Type": "BOTTOM",
+          "Description": "Blue jeans"
+        }
+      ],
+      "Shoe ID": 2,
+      "Accessories": [
+        {
+          "ID": 3,
+          "Next ID": 4,
+          "Price": 0.0,
+          "Store": "Gift",
+          "Type": "ACCESSORY",
+          "Description": "Pearl necklace"
+        }
+      ]
+    }
+  ]
+]
